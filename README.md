@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Archit Shekhawat
 - 👀 I’m a Full Stack Development/Data Engineering focused on AI workflow integrations
-- 🌱 I’m currently learning Python, Django, Javascript and LLMs & Stable Diffusion 
+- 🌱 I’m currently learning Python, Django, Javascript, LLMs & Stable Diffusion 
 - 💞️ I’m open to collaborate on websites and webapps
 - 📫 Reach me at architshekhawat@gmail.com
 
