@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Archit Shekhawat
-- 👀 I’m interested in Full Stack Development/Data Engineering 
-- 🌱 I’m currently learning Python, Django, Javascript and PowerApps
-- 💞️ I’m looking to collaborate on websites, Django apps and Python apps
+- 👀 I’m a Full Stack Development/Data Engineering focused on AI workflow integrations
+- 🌱 I’m currently learning Python, Django, Javascript and LLMs & Stable Diffusion 
+- 💞️ I’m open to collaborate on websites and webapps
 - 📫 Reach me at architshekhawat@gmail.com
 
 <!---
